@@ -1,5 +1,5 @@
 # Gold_sales_dashboard
-##GOLD_ML IS THE FINAL FILE
+GOLD_ML IS THE FINAL FILE
 
  1. Importing Required Libraries
 import pandas as pd
