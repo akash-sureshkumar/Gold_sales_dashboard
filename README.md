@@ -1,4 +1,5 @@
 # Gold_sales_dashboard
+##GOLD_ML IS THE FINAL FILE
 
  1. Importing Required Libraries
 import pandas as pd
@@ -32,7 +33,7 @@ print("\n info:")
 print(df.info())
 Shows first few rows and structure: columns, types, nulls.
 
-✅ 4. Convert 'Date' column to datetime
+ 4. Convert 'Date' column to datetime
 df['date'] = pd.to_datetime(df['Date'])
 Creates a proper datetime column for analysis.
 
