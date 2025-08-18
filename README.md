@@ -59,5 +59,5 @@ Created reusable functions to train and predict sales for any product.
 
 ## Author's
 ## 👤 Akash S                                                    👤 Sarukesh R
-   Data Science Enthusiast | Machine Learning | Visualization        Data Science Enthusiast | Machine Learning | Visualization     
-   🔗 LinkedIn  https://www.linkedin.com/in/akash-s-83041837b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app                                                    🔗 LinkedIn  https://www.linkedin.com/in/rsarukesh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+         Data Science Enthusiast | Machine Learning | Visualization     
+   🔗 LinkedIn  https://www.linkedin.com/in/akash-s-83041837b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app                                                   https://www.linkedin.com/in/rsarukesh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
